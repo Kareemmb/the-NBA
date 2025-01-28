@@ -1,0 +1,9 @@
+body {
+  background: rgba(253, 4, 219, 0.73);
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
