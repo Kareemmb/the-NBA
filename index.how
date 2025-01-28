@@ -1,0 +1,42 @@
+
+
+
+<body>
+  <header>
+    <h1>The Rise of Basketball</h1>
+
+
+
+    <link rel="stylesheet" href="style.css"> 
+    <p>Basketball is now one of the most popular sports in the world, but it wasn't always this way. Let's take a look at how it gained such widespread popularity.</p>
+
+
+
+    <h2>Timeline of Basketball's Popularity</h2>
+    <ul class="timeline">
+      <li>
+        1891 - The Birth of Basketball:
+        <p>Dr. James Naismith invented basketball at the International YMCA Training School in Springfield, Massachusetts. He wanted a game that would keep his students active indoors during the winter.</p>
+      </li>
+      <li>
+        1930s - Early Growth:
+        <p>During the 1930s, basketball spread across the United States, largely due to the success of college and professional leagues. The game’s fast pace and simplicity made it appealing.</p>
+      </li>
+      <li>
+        1946 - The Formation of the NBA:/strong>
+        <p>The National Basketball Association (NBA) was formed, combining two rival basketball leagues. This was the beginning of the modern professional era.</p>
+      </li>
+      <li>
+        1980s - The Magic of the NBA:
+        <p>The NBA rose to new heights in the 1980s, thanks to iconic players like Magic Johnson, Larry Bird, and Michael Jordan. The rivalry between these stars captured the attention of millions.</p>
+      </li>
+      <li>
+        >1990s - Michael Jordan's Influence
+        <p>Michael Jordan’s success with the Chicago Bulls propelled basketball to international popularity. His influence made the sport a global phenomenon.</p>
+      </li>
+      <li>
+        2000s and Beyond - Global Expansion>
+        <p>The 2000s saw the NBA's reach expand globally, with stars like LeBron James and Kobe Bryant. Basketball became a global sport, with the Olympics featuring NBA stars and international leagues growing.</p>
+      </li>
+    </ul>
+
